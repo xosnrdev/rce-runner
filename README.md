@@ -1,4 +1,9 @@
-# RCE Runner
+# rce-runner
+
+[![Deprecated](https://img.shields.io/badge/status-deprecated-red)](https://github.com/ToolKitHub/rce-runner)
+
+> [!IMPORTANT]
+> This repo is deprecated and has been moved to [https://github.com/ToolKitHub/rce-runner](https://github.com/ToolKitHub/rce-runner)
 
 
 ## Overview
